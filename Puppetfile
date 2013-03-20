@@ -29,7 +29,13 @@ github "nodejs",   "1.0.0"
 github "nvm",      "1.0.0"
 github "ruby",     "3.1.0"
 github "stdlib",   "3.0.0", :repo => "puppetlabs/puppetlabs-stdlib"
+github "sysctl",     "1.0.0"
 github "sudo",     "1.0.0"
+github "rbenv",    "1.0.0"
+github "postgresql",    "1.0.0"
+github "sublime_text_2",    "1.1.0"
+github "python",    "1.1.1"
+github "dropbox",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
