@@ -72,6 +72,12 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
+  include sysctl::ipforwarding
+  include postgresql
+  include sublime_text_2
+  include python
+  include dropbox
+
   # common, useful packages
   package {
     [

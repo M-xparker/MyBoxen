@@ -18,6 +18,7 @@ github "boxen", "1.2.0"
 # Core modules for a basic development environment. You can replace
 # some/most of these if you want, but it's not recommended.
 
+github "xquartz", "1.0.0"
 github "dnsmasq",  "1.0.0"
 github "gcc",      "1.0.0"
 github "git",      "1.0.0"
@@ -36,6 +37,7 @@ github "postgresql",    "1.0.0"
 github "sublime_text_2",    "1.1.0"
 github "python",    "1.1.1"
 github "dropbox",    "1.1.0"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
