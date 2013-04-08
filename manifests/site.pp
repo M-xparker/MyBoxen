@@ -74,6 +74,7 @@ node default {
 
   include sysctl::ipforwarding
   include postgresql
+  include postgresapp
   include sublime_text_2
   include python
   include dropbox
