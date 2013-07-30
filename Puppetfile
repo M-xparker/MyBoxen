@@ -35,10 +35,10 @@ github "sudo",     "1.0.0"
 github "rbenv",    "1.0.0"
 github "postgresql",    "1.0.0"
 github "postgresapp",    "1.0.0"
-github "sublime_text_2",    "1.1.0"
+github "sublime_text_2",    "1.1.2"
 github "python",    "1.1.1"
 github "dropbox",    "1.1.0"
-
+github "mysql", "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

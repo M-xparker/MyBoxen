@@ -78,6 +78,7 @@ node default {
   include sublime_text_2
   include python
   include dropbox
+  include mysql
 
   # common, useful packages
   package {
